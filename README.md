@@ -6,7 +6,6 @@ We ensure that no sheltered dog or cat stays here longer than they have to, than
 
 Pet adoption: allows a user to read about the process, then wait in line for their chance to adopt a dog or a cat at the click of a button. The user must wait their turn to adopt a dog or cat! 
 
-Partner: Colleen and Jordon
 
 Technologies Used: React.js, Javascript, CSS
 
